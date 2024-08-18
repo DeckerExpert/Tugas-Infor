@@ -1,0 +1,21 @@
+body {
+    background-color: #2e3440;
+	margin: 40px 120px 40px 120px;
+}
+h1, h2, h3, h4, h5, h6, p {
+    color: #eceff4;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.center_it{
+        text-align: center;
+    }   
+.middle_body { 
+	padding-right: 240px; 
+	padding-left: 60px;
+}	
